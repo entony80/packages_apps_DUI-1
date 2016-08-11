@@ -48,6 +48,8 @@
   <string name="label_action_ime_up">Metodo d\'ingresso cursore sù</string>
   <string name="label_action_app_picker">Seleziona applicazione</string>
   <string name="label_action_notification_clear">Cancella le notifiche</string>
+  <string name="label_action_volume_panel">Pannello volume</string>
+  <string name="label_action_editing_smartbar">Modifica smartbar</string>
     
   <!-- Smartbar -->
   <string name="label_smartbar_actions">Azioni</string>
